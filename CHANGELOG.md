@@ -1,6 +1,7 @@
 ## [FORK 0.0.84] 0.1.1
 
-* Merges `[FORK 0.0.83] 0.1.0` with `0.0.84`
+* Merges `[FORK 0.0.83] 0.1.0` with `0.0.84`.
+* Replaces deprecated method `hashValues` by `Object.hash`.
 
 ## [FORK 0.0.83] 0.1.0
 
