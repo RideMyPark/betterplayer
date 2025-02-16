@@ -1,13 +1,23 @@
-## [FORK] 0.1.0
+## [FORK 0.0.84] 0.1.1
 
-* Fixes `SafeArea` cropping the background of `ModalBottomSheet`
-* Enable `barrierColor` of `ModalBottomSheet`
-* Migrates from `wakelock` to `wakelock_plus`
+* Merges `[FORK 0.0.83] 0.1.0` with `0.0.84`
+
+## [FORK 0.0.83] 0.1.0
+
+* Fixes `SafeArea` cropping the background of `ModalBottomSheet`.
+* Enable `barrierColor` of `ModalBottomSheet`.
+* Migrates from `wakelock` to `wakelock_plus`.
+
+## 0.0.84
+* [BREAKING_CHANGE] Updated min. Flutter version to 3.3.0 and min. Dart version to 3.0.0.
+* Recreated example project.
+* Replaced wakelock with wakelock plus.
+* Updated other dependencies.
+* Updated metadata.
 
 ## 0.0.83
-
-* Updated dependencies
-* Fixed Flutter 3.0 issues
+* Updated dependencies.
+* Fixed Flutter 3.0 issues.
 
 ## 0.0.82
 * Updated ExoPlayer version to 2.17.1.
