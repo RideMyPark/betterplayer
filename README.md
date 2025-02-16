@@ -4,7 +4,7 @@ Thoses are the features|fixes that have been added:
 
 * Fixes `SafeArea` cropping the background of `ModalBottomSheet`
 * Enable `barrierColor` of `ModalBottomSheet`
-* Migrates from `wakelock` to `wakelock_plus`
+* Replaces deprecated method `hashValues` by `Object.hash`
 
 ---
 
