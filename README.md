@@ -2,9 +2,12 @@ This repo is a fork of [betterplayer](https://github.com/jhomlala/betterplayer) 
 
 Thoses are the features|fixes that have been added:
 
-* Fixes `SafeArea` cropping the background of `ModalBottomSheet`
-* Enable `barrierColor` of `ModalBottomSheet`
-* Replaces deprecated method `hashValues` by `Object.hash`
+* Adds namespace property in build.gradle.
+  * This is required for AGP >= 8.0.
+* Fixes `SafeArea` cropping the background of `ModalBottomSheet`.
+* Enable `barrierColor` of `ModalBottomSheet`.
+* Replaces deprecated method `hashValues` by `Object.hash`.
+* Upgrades Android dependencies of example app (Gradle, AGP, Kotlin).
 
 ---
 

@@ -1,3 +1,9 @@
+## [FORK 0.0.84] 0.1.2
+
+* Adds namespace property in build.gradle.
+  * This is required for AGP >= 8.0.
+* Upgrades Android dependencies of example app (Gradle, AGP, Kotlin).
+
 ## [FORK 0.0.84] 0.1.1
 
 * Merges `[FORK 0.0.83] 0.1.0` with `0.0.84`.
